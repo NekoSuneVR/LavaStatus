@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "lavalink-serenetia-com-443",
+        "host": "lavalink.serenetia.com",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true,
+        "restVersion": "v4"
+    }
+]

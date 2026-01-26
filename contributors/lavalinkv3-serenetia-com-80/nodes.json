@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "lavalinkv3-serenetia-com-80",
+        "host": "lavalinkv3.serenetia.com",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "restVersion": "v3"
+    }
+]

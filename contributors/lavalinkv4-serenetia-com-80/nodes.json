@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "lavalinkv4-serenetia-com-80",
+        "host": "lavalinkv4.serenetia.com",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": false,
+        "restVersion": "v4"
+    }
+]

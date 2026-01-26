@@ -1,56 +1,38 @@
 [
     {
-        "identifier": "Serenetia - V4 SSL (ajieblogs)",
+        "identifier": "Public Lavalink v4",
         "host": "lava-v4.ajieblogs.eu.org",
         "port": 443,
         "password": "https://dsc.gg/ajidevserver",
         "secure": true,
         "restVersion": "v4",
-        "authorId": "serenetia.com"
+        "authorId": "867303900884893727"
     },
     {
-        "identifier": "Serenetia - V4 SSL (serenetia.com)",
-        "host": "lavalinkv4.serenetia.com",
-        "port": 443,
-        "password": "https://dsc.gg/ajidevserver",
-        "secure": true,
-        "restVersion": "v4",
-        "authorId": "serenetia.com"
-    },
-    {
-        "identifier": "Serenetia - V4 Non-SSL (ajieblogs)",
+        "identifier": "Public Lavalink v4 NonSSL",
         "host": "lava-v4.ajieblogs.eu.org",
         "port": 80,
         "password": "https://dsc.gg/ajidevserver",
         "secure": false,
         "restVersion": "v4",
-        "authorId": "serenetia.com"
+        "authorId": "867303900884893727"
     },
     {
-        "identifier": "Serenetia - V4 Non-SSL (serenetia.com)",
-        "host": "lavalinkv4.serenetia.com",
-        "port": 80,
-        "password": "https://dsc.gg/ajidevserver",
-        "secure": false,
-        "restVersion": "v4",
-        "authorId": "serenetia.com"
-    },
-    {
-        "identifier": "Serenetia - V3 SSL",
+        "identifier": "Public Lavalink v3",
         "host": "lava-v3.ajieblogs.eu.org",
         "port": 443,
         "password": "https://dsc.gg/ajidevserver",
         "secure": true,
         "restVersion": "v3",
-        "authorId": "serenetia.com"
+        "authorId": "867303900884893727"
     },
     {
-        "identifier": "Serenetia - V3 Non-SSL",
+        "identifier": "Public Lavalink v3 NonSSL",
         "host": "lava-v3.ajieblogs.eu.org",
         "port": 80,
         "password": "https://dsc.gg/ajidevserver",
         "secure": false,
         "restVersion": "v3",
-        "authorId": "serenetia.com"
+        "authorId": "867303900884893727"
     }
 ]

@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "lavalink-triniumhost-com-2334",
+        "host": "lavalink.triniumhost.com",
+        "port": 2334,
+        "password": "free",
+        "secure": false,
+        "restVersion": "v4"
+    }
+]

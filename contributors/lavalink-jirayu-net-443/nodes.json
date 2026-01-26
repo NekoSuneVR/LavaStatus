@@ -1,0 +1,10 @@
+[
+    {
+        "identifier": "lavalink-jirayu-net-443",
+        "host": "lavalink.jirayu.net",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true,
+        "restVersion": "v4"
+    }
+]
