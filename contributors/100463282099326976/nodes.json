@@ -1,0 +1,26 @@
+[
+  {
+    "identifier": "Sune Node (UK1) (v4)",
+    "host": "lavalinkv4n1.nekosunevr.co.uk",
+    "port": 443,
+    "password": "neekoneekoniii",
+    "secure": true,
+    "restVersion": "v4"
+  },
+  {
+    "identifier": "Sune Node (GER1) (v4)",
+    "host": "lavalinkv4n2.nekosunevr.co.uk",
+    "port": 443,
+    "password": "neekoneekoniii",
+    "secure": true,
+    "restVersion": "v4"
+  },
+  {
+    "identifier": "Sune Node (GER2) (v4)",
+    "host": "lavalinkv4n3.nekosunevr.co.uk",
+    "port": 443,
+    "password": "neekoneekoniii",
+    "secure": true,
+    "restVersion": "v4"
+  }
+]
